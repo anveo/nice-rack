@@ -1,5 +1,5 @@
 worker_processes 2
-working_directory "/var/www/nice-rack/"
+working_directory "/var/www/nice-rack/current"
 
 # This loads the application in the master process before forking
 # worker processes
